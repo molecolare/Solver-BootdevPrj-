@@ -1,0 +1,6 @@
+User prompt: Dammi il miglior suggerimento per gestire una routine in modo motivato rispondendomi in un solo paragrafo.
+Prompt tokens: 39
+Response tokens: 461
+
+Response:
+Per gestire una routine con motivazione massima, prova a suddividere il tempo in blocchi focalizzati (time‑blocking) e associare ogni blocco a un piccolo premio o a un rituale di avvio che attivi la tua energia; definisci obiettivi chiari e misurabili, usa un diario quotidiano per registrare i progressi e celebra le piccole vittorie, e integra elementi di varietà e riposo per evitare l’affaticamento mentale, così trasformi la routine da semplice obbligo a una sequenza gratificante.

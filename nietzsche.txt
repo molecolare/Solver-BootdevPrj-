@@ -1,0 +1,8 @@
+User prompt: Quali sono le lezioni più importanti delle Zarathustra e dell'Ecce homo di Nietzsche? Usa 2 paragrafi.
+Prompt tokens: 47
+Response tokens: 346
+
+Response:
+Le lezioni centrali di *Così parlò Zarathustra* sono la riaffermazione della vita come valore supremo, la critica al moralismo tradizionale e la nascita del superuomo, l’individuo che si eleva al di sopra dei valori imposti dalla società, e la concezione dell’eterno ritorno, che invita a vivere ogni istante come se dovesse ripetersi eternamente. Nietzsche propone quindi un’affermazione radicale della propria volontà di potenza, la ricerca di nuovi valori che nascano dall’individuo stesso, e l’invito a superare il "últimum uomo", il modello di mediocrità e di comodità morale che la cultura moderna ha prodotto.  
+
+In *Ecce Homo* Nietzsche offre una sorta di confessione e di autovalutazione della propria filosofia, sottolineando la necessità di una “volontà di potenza” come principio dinamico della vita, la ricerca della verità attraverso la prospettiva personale e l’arte di reinterpretare la storia e la cultura in chiave afirmativa. Il testo insegna a riconoscere il proprio ruolo di “creatore di valori” e a rifiutare le interpretazioni dogmatiche imposte dalla tradizione, promuovendo una visione della vita come un continuo atto di superamento, di sfida e di riaffermazione dell’individualità.
